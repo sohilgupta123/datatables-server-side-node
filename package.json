@@ -1,8 +1,8 @@
 {
   "name": "datatables-server-side-node",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Package for integrating server side processing in datatables with sequelize",
-  "main": "index.js",
+  "main": "ssp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,10 @@
     "datatables",
     "node"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sohilgupta123/datatables-server-side-node.git"
+  },
   "author": "Sohil Gupta",
   "license": "ISC",
   "dependencies": {

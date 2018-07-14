@@ -1,4 +1,6 @@
-function SSP(connection) {
+module.exports = function() {
+
+var SSP = function(connection) {
   this.connection = connection;
 };
 
@@ -193,6 +195,5 @@ SSP.prototype._flatten = function(a, join = ' AND ') {
 }
 return a;
 }
-
-exports.SSP = SSP;
-
+return SSP;
+};
