@@ -1,5 +1,5 @@
 {
-  "name": "datatables-server-side",
+  "name": "datatables-server-side-node",
   "version": "1.0.0",
   "description": "Package for integrating server side processing in datatables with sequelize",
   "main": "index.js",
