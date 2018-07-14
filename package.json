@@ -1,0 +1,18 @@
+{
+  "name": "datatables-server-side",
+  "version": "1.0.0",
+  "description": "Package for integrating server side processing in datatables with sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "datatables",
+    "node"
+  ],
+  "author": "Sohil Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^4.38.0"
+  }
+}
