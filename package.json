@@ -17,6 +17,6 @@
   "author": "Sohil Gupta",
   "license": "ISC",
   "dependencies": {
-    "sequelize": "^4.38.0"
+    "sequelize": "^6.29.0"
   }
 }
